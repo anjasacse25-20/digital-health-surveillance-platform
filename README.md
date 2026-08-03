@@ -16,6 +16,7 @@ A Digital Health Surveillance Platform designed to improve health monitoring and
 - Team Collaboration
 
 ## 📂 Presentation
+📄 [Blue Shield Presentation](./Digital%20Health%20Platform.pptx)
 
 
 
